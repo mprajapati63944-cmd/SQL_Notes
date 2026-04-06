@@ -35,7 +35,6 @@ III_Advance/
 ├── 05_Joins_P1.sql
 ├── 06_Joins_P2.sql
 IV_Projects/
-├── 01_Customer_Behavior_Analysis.sql
 ├──
 ```
 
