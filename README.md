@@ -11,6 +11,20 @@ This repository contains my PostgreSQL learning notes with SQL queries and expla
 * Delete vs Drop
 * Data Types
 * Constraints
+* Update Data
+* Alter Table
+* Import CSV File
+* Operators
+* Set Operators
+* Agreegation Function
+* String Function
+* Date-Time Function
+* Conditional
+* Coalesce Function
+* Window Function
+* Joins
+
+* Also We Cover Some SQL Based Mini-Projects
 
 ---
 
